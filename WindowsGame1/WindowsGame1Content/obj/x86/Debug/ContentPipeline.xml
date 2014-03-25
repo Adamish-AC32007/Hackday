@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>winchester.png</Source>
+      <Name>winchester</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb</Output>
+      <Time>2013-09-30T17:54:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-10-23T16:37:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2013-10-28T19:34:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button.png</Source>
+      <Name>button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb</Output>
+      <Time>2013-10-28T20:24:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2013-10-01T13:26:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand.png</Source>
+      <Name>Sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb</Output>
+      <Time>2013-11-19T14:37:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2013-11-19T22:27:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>desert.png</Source>
+      <Name>desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb</Output>
+      <Time>2013-11-21T11:19:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2013-11-21T13:13:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gunshot.wav</Source>
+      <Name>gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb</Output>
+      <Time>2013-10-28T15:26:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>reload.wav</Source>
+      <Name>reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb</Output>
+      <Time>2013-11-20T16:53:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>empty_click.wav</Source>
+      <Name>empty_click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb</Output>
+      <Time>2013-11-20T16:56:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2013-10-28T15:54:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music.mp3</Source>
+      <Name>Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb</Output>
+      <Extra>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma</Extra>
+      <Time>2013-11-21T18:59:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hitman.mp3</Source>
+      <Name>Hitman</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.xnb</Output>
+      <Extra>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.wma</Extra>
+      <Time>2013-11-22T21:46:22+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-18T08:43:06.7619565+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

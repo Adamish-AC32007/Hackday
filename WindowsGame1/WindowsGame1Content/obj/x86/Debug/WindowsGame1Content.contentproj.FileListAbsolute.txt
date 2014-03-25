@@ -1,0 +1,19 @@
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache

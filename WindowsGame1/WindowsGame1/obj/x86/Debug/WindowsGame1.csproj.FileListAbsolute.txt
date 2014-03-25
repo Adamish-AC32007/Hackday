@@ -1,0 +1,267 @@
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+c:\users\adambrown\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\adambrown\Documents\Visual Studio 2010\Projects\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FrontImage.xnb
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\adambrown\Desktop\Bitman Game\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FrontImage.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Static\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\frontRightAnimation.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FrontImage.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\frontRightAnimation.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Static - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bitman.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FrontImage.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\frontRightAnimation.xnb
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+J:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+G:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\Uni Stuff\3rd Year\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\Bitman Game - Animated\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteSheetRow.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+H:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+E:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+D:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Implem - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.xnb
+G:\Uni Stuff\3rd Year\Games Programming\The Gunslinger - Copy\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.wma
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.xnb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.wma
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.dll
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.Linq.dll
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.dll
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.xml
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.xml
+C:\Users\Adam\Documents\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.Linq.xml
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\winchester.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Player.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sand.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\desert.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\reload.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\empty_click.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Music.wma
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Hitman.wma
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.dll
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.Linq.dll
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.dll
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.xml
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.xml
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Cassandra.Data.Linq.xml
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Highscores.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MainButton.xnb
+C:\Users\Adam\Documents\Programming\Game Development\AdamBrown\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\highscore.xnb
